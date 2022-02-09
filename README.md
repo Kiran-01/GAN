@@ -1,1 +1,1 @@
-# GANand CGAN
+# GAN and CGAN
